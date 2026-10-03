@@ -1,0 +1,16 @@
+PYTHON DATA ANALYSIS REPORT
+===========================
+
+Project: Python Data Analysis & API Application
+Author: Yash Ganvir
+
+The project covers:
+- NumPy fundamentals
+- Pandas data loading and cleaning
+- Data manipulation and analysis
+- Matplotlib and Seaborn visualization
+- REST API consumption using Requests
+- JSON processing
+- Automated report generation
+
+The complete analysis is available in the Google Colab notebook.
